@@ -5,6 +5,7 @@
  */
 
 import React, { Component } from 'react';
+const firebase = require('firebase');
 import {
   AppRegistry,
   StyleSheet,
@@ -12,20 +13,29 @@ import {
   View
 } from 'react-native';
 
+// Initialize Firebase
+const firebaseConfig = {
+  apiKey: "AIzaSyDQres8B1RLAFnhs7c4SxgWa-ng8B9knzQ",
+  authDomain: "raiden-a5db8.firebaseapp.com",
+  databaseURL: "https://raiden-a5db8.firebaseio.com",
+  storageBucket: "raiden-a5db8.appspot.com",
+  messagingSenderId: "276978701255"
+};
+const firebaseApp = firebase.initializeApp(firebaseConfig);
+
 class raiden extends Component {
   render() {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to React Native!
+          Welcome To Raiden
         </Text>
         <Text style={styles.instructions}>
-          To get started, edit index.ios.js
+          Tagline here, lets work together to make something better.
         </Text>
-        <Text style={styles.instructions}>
-          Press Cmd+R to reload,{'\n'}
-          Cmd+D or shake for dev menu
-        </Text>
+          <View style={styles.button}>
+            <Text>Sign Up</Text>
+          </View>
       </View>
     );
   }
@@ -48,6 +58,14 @@ const styles = StyleSheet.create({
     color: '#333333',
     marginBottom: 5,
   },
+  button: {
+    borderStyle: 'solid',
+    borderWidth: 1,
+    paddingTop: 10,
+    paddingBottom: 10,
+    paddingLeft: 40,
+    paddingRight: 40
+  }
 });
 
 AppRegistry.registerComponent('raiden', () => raiden);

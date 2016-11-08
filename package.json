@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/TeamRaiden/raiden#readme",
   "dependencies": {
-    "firebase": "^3.4.1",
+    "firebase": "^3.5.3",
     "react": "15.3.2",
     "react-native": "0.34.1"
   }
