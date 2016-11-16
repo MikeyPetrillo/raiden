@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Modules/RCTDevMenu.m \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Modules/RCTDevMenu.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTKeyCommands.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTRootView.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTWebSocketProxy.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTWebSocketProxyDelegate.h

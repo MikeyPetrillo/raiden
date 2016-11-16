@@ -1,0 +1,30 @@
+dependencies: \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBatchedBridge.m \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridge+Private.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTBridgeMethod.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/CSSLayout/CSSLayout.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/CSSLayout/CSSMacros.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTDisplayLink.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Executors/RCTJSCExecutor.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTJavaScriptExecutor.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTModuleData.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTPerformanceLogger.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Profiler/RCTProfile.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Modules/RCTSourceCode.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Modules/RCTRedBox.h \
+  /Users/jeff/Desktop/Personal/raiden/node_modules/react-native/React/Base/RCTErrorCustomizer.h
